@@ -33,7 +33,7 @@ Initial analysis suggested a massive conversion spike (6%) on Saturdays at 5 AM.
 ## 🚀 How to Run
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/serafimk3/marketing-ab-test.git](https://github.com/yourusername/marketing-ab-test.git)
+    git clone https://github.com/SerafimK3/marketing.git
     ```
 2.  Install dependencies:
     ```bash
@@ -41,7 +41,7 @@ Initial analysis suggested a massive conversion spike (6%) on Saturdays at 5 AM.
     ```
 3.  Run the notebook:
     ```bash
-    jupyter notebook ad_analysis.ipynb
+    jupyter notebook abTest.ipynb
     ```
 
 ## 📈 Visuals
