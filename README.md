@@ -47,7 +47,7 @@ Initial analysis suggested a massive conversion spike (6%) on Saturdays at 5 AM.
 ## 📈 Visuals
 *(Note: These are generated in the notebook)*
 * **Lift Chart:** Visualizes the divergence between Ad and PSA groups as activity increases.
-* **Conversion Heatmap:** A temporal view of conversion rates by Day/Hour.
+<img width="965" height="523" alt="Screenshot 2026-01-31 at 17 00 26" src="https://github.com/user-attachments/assets/7ea6bd9c-1279-47d0-b841-b575c7083770" />
 
 ---
 **Author:** Serafim Krastev
